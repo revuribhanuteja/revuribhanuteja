@@ -47,7 +47,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![Numpy](https://img.shields.io/badge/numpy-#013243?style=flat-square&logo=numpy&logoColor=#013243)
+![Numpy](https://img.shields.io/badge/numpy-ea2d2f?style=flat-square&logo=numpy&logoColor=blue)
 ![Pandas]
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 
