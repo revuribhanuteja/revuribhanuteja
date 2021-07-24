@@ -38,7 +38,7 @@
 <
 
 ##
-<h3><b><samp>Skills and Languages</samp></b></h3>
+<h4><b><samp>Skills and Languages</samp></b></h4>
 
 ![Rapspberry Pi](https://img.shields.io/badge/Raspberry_pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
