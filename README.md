@@ -11,7 +11,7 @@
 </a>
 
 <a href="https://www.instagram.com/bhanutejarevuri289">
-  <img align="left" alt="akd's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img align="left" alt="akd's Instagram" width="40px" src="https://image.flaticon.com/icons/png/512/2111/2111463.png" />
 </a>
 
 
