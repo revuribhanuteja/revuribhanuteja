@@ -12,8 +12,8 @@
   <img align="left" alt="akd's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="https://mail.google.com/maill/bhanutejarevuri">
-  <img align="left" alt="akd's Youtube" width="100px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" />
+<a href="https://mail.google.com/mail/bhanutejarevuri">
+  <img align="left" alt="akd's Youtube" width="100px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFile%3AGmail_icon_(2020).svg&psig=AOvVaw0qZtxwPLnOfmC-JHJJeYg8&ust=1627208277213000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOCGiq29-_ECFQAAAAAdAAAAABAD" />
 </a>
 
 <br></br>
