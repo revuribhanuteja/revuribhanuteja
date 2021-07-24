@@ -1,4 +1,6 @@
-### Hello Everyone, I'm Revuri Bhanu Teja <
+### Hello Everyone, I'm Revuri Bhanu Teja 
+
+### Feel Free to connect
 
 <a href="https://www.linkedin.com/in/bhanu-teja-revuri-b14148190">
   <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
@@ -12,9 +14,7 @@
   <img align="left" alt="akd's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="https://mail.google.com/mail/bhanutejarevuri">
-  <img align="left" alt="akd's Youtube" width="100px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFile%3AGmail_icon_(2020).svg&psig=AOvVaw0qZtxwPLnOfmC-JHJJeYg8&ust=1627208277213000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOCGiq29-_ECFQAAAAAdAAAAABAD" />
-</a>
+@GMAIL
 
 <br></br>
 
