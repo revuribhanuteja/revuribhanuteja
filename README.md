@@ -49,6 +49,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![Numpy](https://img.shields.io/badge/numpy-3776AB?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-3776AB?style=flat-square&logo=pandas&logoColor=#150458)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=flat-square&logo=TensorFlow&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 
 ![Java](https://img.shields.io/badge/Java-013243?style=flat-square&logo=Java&logoColor=white)
