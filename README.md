@@ -1,7 +1,11 @@
-### Hi there 👋
+### Here is What I'm Working on!!!👋
 
 <!--
 **revuribhanuteja/revuribhanuteja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<a href="https://www.linkedin.com/in/bhanu-teja-revuri-b14148190/">
+  <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+</a>
 
 Here are some ideas to get you started:
 
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
