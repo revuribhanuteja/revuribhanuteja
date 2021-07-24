@@ -50,17 +50,24 @@
 ![Numpy](https://img.shields.io/badge/numpy-3776AB?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-3776AB?style=flat-square&logo=pandas&logoColor=#150458)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=flat-square&logo=TensorFlow&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-
-![Java](https://img.shields.io/badge/Java-013243?style=flat-square&logo=Java&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-red?style=flat-square&logo=Keras&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-white?style=flat-square&logo=Docker&logoColor=blue)
+![Apache Hive](https://img.shields.io/badge/ApacheHive-white?style=flat-square&logo=ApacheHive&logoColor=yellow)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-white?style=flat-square&logo=Apache%20Spark&logoColor=orange)
+![AWS](https://img.shields.io/badge/AWS-orange?style=flat-square&logo=AWS&logoColor=white)
 
 <span>
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/c.svg" alt="drawing" width="50"/>
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/python-5.svg" alt="drawing" width="60"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/mysql-6.svg" alt="drawing" width="50"/>
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="drawing" width="150"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/768px-NumPy_logo_2020.svg.png" alt="drawing" width="150"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png" alt="drawing" width="150"/>
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="drawing" width="60"/>
+<img src="https://keras.io/img/logo.png" alt="drawing" width="150"/>
+<img src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/vertical-logo-monochromatic.png?itok=erja9lKc" alt="drawing" width=60/>
+<img src="https://hive.apache.org/images/hive_logo_medium.jpg" alt="drawing" width="60"/>
+<img src="https://spark.apache.org/images/spark-logo-trademark.png" alt="drawing" width="100"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/768px-Amazon_Web_Services_Logo.svg.png" alt="drawing" width="70"/>
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/javascript.svg" alt="drawing" width="50"/>
 </span>
     
