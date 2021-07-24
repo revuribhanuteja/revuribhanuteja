@@ -1,5 +1,5 @@
 
-# Hello Everyone!!! I'm [Revuri Bhanu Teja](https://github.com/revuribhanuteja) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
+### Hello Everyone!!! I'm [Revuri Bhanu Teja](https://github.com/revuribhanuteja) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
 <br><br>
 
 <a href="https://www.linkedin.com/in/bhanu-teja-revuri-b14148190">
