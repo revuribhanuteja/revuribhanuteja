@@ -1,5 +1,5 @@
 
-# Hey Everyone! I'm [Revuri Bhanu Teja](https://github.com/revuribhanuteja) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
+# Hello Everyone!!! I'm [Revuri Bhanu Teja](https://github.com/revuribhanuteja) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
 <br><br>
 
 <a href="https://www.linkedin.com/in/bhanu-teja-revuri-b14148190">
@@ -18,13 +18,13 @@
 <br><br>
 
 
-## <p align="center"><h4 align="center"><samp> An Python Developer, An Open Source Contributor, Youtuber  & A Competitive Programmer, online Trainer </samp></h4></p>
+## <p align="center"><h4 align="center"><samp> I'm a Python Developer and Tester. </samp></h4></p>
 
 <div>
 <img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
   <br>
   
-- 🔭 I’m currently working on Aiorbitech
+- 🔭 I’m currently working on [Continental Automotive Components](https://www.continental.com/en/)
 - 🌱 I’m currently learning Artificial Intelligence
 - 👯 I’m looking to collaborate on Youtube
 - 💬 Ask me about computer vision
