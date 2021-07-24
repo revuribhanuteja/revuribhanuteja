@@ -24,11 +24,12 @@
 <img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
   <br>
   
-- 🔭 I’m currently working on [Continental Automotive Components](https://www.continental.com/en/)
-- 🌱 I’m currently learning Artificial Intelligence
+- 🔭 I’m currently working in [Continental Automotive Components](https://www.continental.com/en/)
+- 🌱 I’m currently Working on [Python](https://www.python.org/)
 - 👯 I’m looking to collaborate on Youtube
 - 💬 Ask me about computer vision
 - 📫 How to reach me: pythonlife telegram group
+- 🥇 <samp>Open Source Enthusiast.
   <br>
 </div>
 
@@ -46,7 +47,7 @@
 ![C](https://img.shields.io/badge/C-27338e?style=flat-square&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-numpy-brightgreen)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 
 ![Java](https://img.shields.io/badge/Java-013243?style=flat-square&logo=Java&logoColor=white)
