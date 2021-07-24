@@ -26,9 +26,13 @@
   
 - 🔭 I’m currently working in [Continental Automotive Components](https://www.continental.com/en/)
 - 🌱 I’m currently Working on [Python](https://www.python.org/)
-- 👯 I’m looking to collaborate on Youtube
-- 💬 Ask me about computer vision
-- 📫 How to reach me: pythonlife telegram group
+- 👯 I’m looking to collaborate on [linkedin](https://www.linkedin.com/in/bhanu-teja-revuri-b14148190),[Instagram](https://www.instagram.com/bhanutejarevuri289)
+- 💬 Ask me about [Mathematics](https://en.wikipedia.org/wiki/Mathematics),[Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
+- 📫 How to reach me: [GMAIL]("https://www.gmail.com/bhanutejarevui")
+- 🌱 I’m currently learning ... ### AI, ML and Deep Learning
+- 🤔 I’m looking for help with ... ### Onsite Opportunity
+- 😄 Pronouns: ... He/His/Him
+- ⚡ Fun fact: ... ### Cooking 
 - 🥇 <samp>Open Source Enthusiast.
   <br>
 </div>
@@ -41,85 +45,22 @@
 ##
 <h4><b><samp>Skills and Languages</samp></b></h4>
 
-![Rapspberry Pi](https://img.shields.io/badge/Raspberry_pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-
-![C](https://img.shields.io/badge/C-27338e?style=flat-square&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![Numpy](https://img.shields.io/badge/Numpy-numpy-brightgreen)
+![Pandas]
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 
 ![Java](https://img.shields.io/badge/Java-013243?style=flat-square&logo=Java&logoColor=white)
 
 <span>
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/c.svg" alt="drawing" width="50"/>
-
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/raspberry-pi.svg" alt="drawing" width="50"/>
-
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/python-5.svg" alt="drawing" width="50"/>
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/mysql-6.svg" alt="drawing" width="50"/>
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/readme.svg" alt="drawing" width="50"/>
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/html.svg" alt="drawing" width="50"/>
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/css.svg" alt="drawing" width="50"/>
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/javascript.svg" alt="drawing" width="50"/>
-
-  </span>
-    
-##
-<h3><b><samp>Tools and Platform</samp></b></h3>
-
-![SmartThings](https://img.shields.io/badge/SmartThings-777BB4?style=flat-square&logo=SmartThings&logoColor=white)
-![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-!
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-![Firebase](https://img.shields.io/badge/Firebase-ffcb2c?style=flat-square&logo=Firebase&logoColor=DD1100)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white)
-![BootStrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![HackerRank](https://img.shields.io/badge/HackerRank-107C10?style=flat-square&logo=HackerRank&logoColor=black)
-![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)
-  
-<span>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bootstrap-5-1.svg" alt="drawing" width="50"/>
-
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/git-icon.svg" alt="drawing" width="40"/>
-
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/google-cloud-1.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/hackerrank.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/visual-studio-code.svg" alt="drawing" width="40"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/heroku-4.svg" alt="drawing" width="40"/>
 </span>
-<hr> 
-  
-
-
-  
-### Github Stats
-  
-<p align="center">
-  <a href="https://github.com/bhanutejarevuri"><span>
-    <img height="48%" src="https://github-readme-stats.vercel.app/api?username=kiransagar1&count_private=true&show_icons=true&theme=tokyonight&&include_all_commits=true"/>
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amandewatnitrr&theme=tokyonight" />
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amandewatnitrr&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=tokyonight"/>
-    </span></a>
-</p>
-  
-<br>
-  
-### 🏆 GitHub Profile Trophy:
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=kiransagar1&column=8&theme=onedark&no-frame=true&no-bg=true"/>
-</a>
-</p>
-
-### 📈 GitHub Activity:
-  <a href="https://github.com/kiransagar1/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kiransagar1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-
-
-<br>  
-
-
+    
